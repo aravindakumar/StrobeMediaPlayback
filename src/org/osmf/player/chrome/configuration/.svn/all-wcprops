@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/chrome/configuration
+END
+AssetsParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/chrome/configuration/AssetsParser.as
+END
+LayoutAttributesParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/chrome/configuration/LayoutAttributesParser.as
+END
+WidgetsParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/chrome/configuration/WidgetsParser.as
+END
+Configuration.as
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/chrome/configuration/Configuration.as
+END
+ConfigurationUtils.as
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/chrome/configuration/ConfigurationUtils.as
+END

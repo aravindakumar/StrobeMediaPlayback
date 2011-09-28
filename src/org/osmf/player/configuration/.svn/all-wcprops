@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/configuration
+END
+ConfigurationLoader.as
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/configuration/ConfigurationLoader.as
+END
+SkinParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/configuration/SkinParser.as
+END
+InjectorModule.as
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/configuration/InjectorModule.as
+END
+JavaScriptBridge.as
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/configuration/JavaScriptBridge.as
+END
+ConfigurationFlashvarsDeserializer.as
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/configuration/ConfigurationFlashvarsDeserializer.as
+END
+PlayerConfiguration.as
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/configuration/PlayerConfiguration.as
+END
+XMLFileLoader.as
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/configuration/XMLFileLoader.as
+END
+ConfigurationProxy.as
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/configuration/ConfigurationProxy.as
+END
+VideoRenderingMode.as
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/configuration/VideoRenderingMode.as
+END
+ControlBarMode.as
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/configuration/ControlBarMode.as
+END
+ConfigurationXMLDeserializer.as
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/magento/!svn/ver/447/branches/fbextension/milyoni/StrobeMediaPlayback_1.6.274-full/src/player/StrobeMediaPlayback/src/org/osmf/player/configuration/ConfigurationXMLDeserializer.as
+END
